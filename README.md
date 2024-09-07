@@ -9,3 +9,7 @@ Hi there, I'm InfiniteVerma
 
  - KDE
  - Haiku
+
+#### Links
+
+ - [Linkedin](https://www.linkedin.com/in/anant-verma/)

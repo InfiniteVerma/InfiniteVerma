@@ -10,6 +10,7 @@ Hi there, I'm InfiniteVerma
 
  - KDE
  - Haiku
+ - GitLab
 
 ### Links
 

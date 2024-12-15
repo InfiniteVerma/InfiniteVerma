@@ -5,6 +5,8 @@ Hi there, I'm InfiniteVerma
  - [cpp-tcpip](https://github.com/InfiniteVerma/cpp-tcpip): A TCP/IP implementation over raw sockets as per RFC 793 in C++
  - [rrpc](https://github.com/InfiniteVerma/rrpc): A rust library that implements Remote Procedure Calls.
  - [cappuccin](https://github.com/InfiniteVerma/cappuccin): A HTTP Server library written in C++ taking express.js as inspiration (paused)
+ - [jlox](https://github.com/InfiniteVerma/jlox): Repo containing implementation of jlox while going through [crafting interpreters](https://craftinginterpreters.com/) with some enhancements
+ - [clox](https://github.com/InfiniteVerma/clox): Repo containing implementation of clox while going through [crafting interpreters](https://craftinginterpreters.com/) with some enhancements
 
 ### Open source contributions:
 
